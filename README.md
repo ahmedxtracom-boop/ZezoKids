@@ -1,12 +1,38 @@
-# ZezoKids
+# ZezoKids Parental Control App
 
-ZezoKids is a Flutter parental control app that allows iPhone parents to monitor Android children devices. 
+## Project Description
+ZezoKids is a comprehensive parental control application developed with Flutter, designed to help parents monitor and manage their children's online activities effectively.
 
-## Features:
-- Screen mirroring
-- Camera access
-- Microphone access
-- App management
+## Features
+- Real-time activity monitoring
+- Web filtering and blocking
+- Screen time management
 - Location tracking
+- App usage tracking
+- Remote device management
 
-Manage and supervise your kids' device usage effectively with ZezoKids!
+## Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ahmedxtracom-boop/ZezoKids.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ZezoKids
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Usage Guide
+1. Launch the app on your device.
+2. Create a parent account through the signup process.
+3. Add your child’s profile to start monitoring.
+4. Explore the app to customize settings according to your needs.
+
+For more information, visit the [documentation](https://github.com/ahmedxtracom-boop/ZezoKids/blob/main/docs/README.md).
